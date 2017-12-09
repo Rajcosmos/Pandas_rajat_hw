@@ -1,4 +1,8 @@
-
+### PyCity Schools Analysis
+### Observed following trends
+## 1. Schools in Charter are better than District in terms of overall passing rate.
+## 2. High budget per student doesn't mean it will improve the overall passing rate. Charter's per student budget is less than the District's per student budget despite that Charter beats District schools 
+## 3. Wilson High school (which belongs to Charter) has the highest overall passing rate.
 
 ```python
 import pandas as pd
